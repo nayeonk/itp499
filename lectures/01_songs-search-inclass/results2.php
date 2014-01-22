@@ -20,7 +20,7 @@ $sql = "
     FROM songs
     INNER JOIN artists
     ON songs.artist_id = artists.id
-    WHERE artists.artist_name = LIKE ?
+    WHERE artists.artist_name LIKE ?
     ORDER BY play_count DESC
 
 ";

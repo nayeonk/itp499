@@ -31,7 +31,7 @@ $statement = $pdo->prepare($sql);
 $statement->execute();
 $songs = $statement->fetchAll(PDO::FETCH_OBJ);
 
-//var_dump($songs);
+var_dump($songs);
 ?>
 
 <?php foreach($songs as $song) : ?>

@@ -10,7 +10,7 @@ class Product {
     public $title;
     public $price;
 
-    public function __construct($title = 'NA') { //magic method. called beind the scenes for you
+    public function __construct($title = 'NA') { //magic method. called behind the scenes for you
         $this->title = $title;
     }
 

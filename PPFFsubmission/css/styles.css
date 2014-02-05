@@ -1,0 +1,46 @@
+body {
+	background: url("../img/bg.jpg") repeat;
+	color:black;
+}
+
+@font-face {
+
+}
+
+.row {
+	max-width: 62.5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+	float:none !important;
+}
+.center-text {
+	text-align: center;
+}
+.header {
+	background-color: rgba(97,78,127,0.6);
+	padding: 3em 0 ;
+}
+.headline {
+	color: white;
+}
+.blurb {
+	color: white;
+	padding: 0.5em;
+	background-color: rgba();
+}
+.nominations {
+	background-color: rgba();
+}
+.nominations .award {
+	padding:1em 4em;
+}
+.nominations .award h3 {
+	text-align: center;
+}
+.nominations p {
+	text-align: center;
+}

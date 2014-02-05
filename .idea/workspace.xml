@@ -23,92 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="start.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/02_book/start.php">
+      <file leaf-file-name="querystring.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/httpfoundation-ex/querystring.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="19" selection-start="445" selection-end="445" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="476">
+            <state line="19" column="35" selection-start="536" selection-end="545" vertical-scroll-proportion="0.55119455" vertical-offset="0" max-vertical-offset="629">
               <folding>
-                <element signature="e#6#87#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SongQuery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/02_book/SongQuery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="243" selection-end="243" vertical-scroll-proportion="-5.230769" vertical-offset="102" max-vertical-offset="748">
-              <folding>
-                <element signature="e#6#87#0" expanded="true" />
-                <marker date="1390961247719" expanded="true" signature="216:235" placeholder="SELECT * FRO..songs..." />
-                <marker date="1390961247719" expanded="true" signature="217:235" placeholder="sELECT * FRO..songs..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArtistQuery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistQuery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenreQuery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreQuery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArtistMenu.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistMenu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenreMenu.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreMenu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Song.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/Song.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="568">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/02_book/Product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="277" selection-end="277" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="561">
-              <folding>
-                <element signature="e#6#87#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/02_book/Book.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="37" selection-start="709" selection-end="709" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="595">
-              <folding>
-                <element signature="e#6#87#0" expanded="true" />
+                <element signature="e#53#99#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,6 +42,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -134,18 +55,34 @@
         <option value="$PROJECT_DIR$/assignments/01_pdo-dvd/search.php" />
         <option value="$PROJECT_DIR$/lectures/01_songs-search-inclass/results2.php" />
         <option value="$PROJECT_DIR$/assignments/01_pdo-dvd/results.php" />
-        <option value="$PROJECT_DIR$/lectures/02_book/Product.php" />
         <option value="$PROJECT_DIR$/lectures/02_book/start.php" />
         <option value="$PROJECT_DIR$/lectures/02_book/Book.php" />
         <option value="$PROJECT_DIR$/lectures/02_book/SongQuery.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/db.php" />
+        <option value="$PROJECT_DIR$/lectures/02_book/Product.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/add-song-process.php" />
+        <option value="$PROJECT_DIR$/lectures/01_songs-search-inclass/results.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistQuery.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/add-song.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreQuery.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreMenu.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistMenu.php" />
+        <option value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/Song.php" />
+        <option value="$PROJECT_DIR$/lectures/03_autoload_namespacing/Yelp/Review.php" />
+        <option value="$PROJECT_DIR$/lectures/03_autoload_namespacing/OpenTable/Review.php" />
+        <option value="$PROJECT_DIR$/lectures/03_autoload_namespacing/Hunger/Billing/PayPal.php" />
+        <option value="$PROJECT_DIR$/lectures/03_autoload_namespacing/index.php" />
+        <option value="$PROJECT_DIR$/lectures/03_autoload_namespacing/composer.json" />
+        <option value="$PROJECT_DIR$/lectures/03_autoload_namespacing/httpfoundation-ex/querystring.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -189,6 +126,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="itp499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vagrant-499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itp499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_autoload_namespacing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vagrant-499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itp499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_autoload_namespacing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hunger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Billing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vagrant-499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itp499" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_autoload_namespacing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="httpfoundation-ex" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,6 +300,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignments/02_PHP-OOP-A2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -324,7 +328,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1346" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -332,7 +336,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16917293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16544656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -351,8 +355,8 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -361,10 +365,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16917293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16839762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -404,7 +408,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="24" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="850">
           <folding>
-            <marker date="1390355660078" expanded="true" signature="-1:-1" placeholder="SELECT title..songs..." />
+            <marker date="1391500100675" expanded="true" signature="-1:-1" placeholder="SELECT title..songs..." />
           </folding>
         </state>
       </provider>
@@ -412,25 +416,13 @@
     <entry file="file://$PROJECT_DIR$/assignments/01_pdo-dvd/results.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="81" column="14" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="911" max-vertical-offset="1496">
-          <folding>
-            <element signature="e#6#87#0" expanded="true" />
-            <marker date="1390415523193" expanded="true" signature="-1:-1" placeholder="SELECT title..dvd_titles..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/01_songs-search-inclass/search.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="4" selection-start="92" selection-end="128" vertical-scroll-proportion="0.059859157" vertical-offset="0" max-vertical-offset="568" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/01_songs-search-inclass/results.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="272" selection-end="272" vertical-scroll-proportion="-0.04753521" vertical-offset="197" max-vertical-offset="765">
-          <folding>
-            <marker date="1390355660078" expanded="true" signature="-1:-1" placeholder="SELECT title..songs..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/01_songs-search-inclass/results2.php">
@@ -442,114 +434,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/01_pdo-dvd/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="292" selection-end="292" vertical-scroll-proportion="0.29929578" vertical-offset="0" max-vertical-offset="568">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/02_book/Book.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="37" selection-start="709" selection-end="709" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="595">
-          <folding>
-            <element signature="e#6#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lectures/02_book/start.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="19" selection-start="445" selection-end="445" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="476">
+        <state line="14" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.43510056" vertical-offset="0" max-vertical-offset="547">
           <folding>
-            <element signature="e#6#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/01_pdo-dvd/results.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="89" selection-end="169" vertical-scroll-proportion="0.23943663" vertical-offset="0" max-vertical-offset="1496">
-          <folding>
-            <element signature="e#6#87#0" expanded="true" />
-            <marker date="1390415523193" expanded="true" signature="-1:-1" placeholder="SELECT title..dvd_titles..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/02_book/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="277" selection-end="277" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <element signature="e#6#87#0" expanded="true" />
+            <element signature="e#6#87#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state line="13" column="64" selection-start="237" selection-end="237" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+          <folding>
+            <element signature="e#6#87#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/01_pdo-dvd/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="292" selection-end="292" vertical-scroll-proportion="0.3107861" vertical-offset="0" max-vertical-offset="547">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/add-song-process.php">
+    <entry file="file://$PROJECT_DIR$/assignments/01_pdo-dvd/results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state line="20" column="22" selection-start="353" selection-end="353" vertical-scroll-proportion="-1.0201097" vertical-offset="813" max-vertical-offset="1411">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/add-song.php">
+    <entry file="file://$PROJECT_DIR$/lectures/01_songs-search-inclass/results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
+        <state line="36" column="30" selection-start="804" selection-end="821" vertical-scroll-proportion="-12.576923" vertical-offset="200" max-vertical-offset="765">
+          <folding>
+            <marker date="1391500100675" expanded="true" signature="-1:-1" placeholder="SELECT title..songs..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/02_book/Book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="595">
+          <folding>
+            <element signature="e#6#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="229" selection-end="229" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="476">
+          <folding>
+            <element signature="e#6#87#0" expanded="true" />
+            <marker date="1391556900855" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..genres..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="26" selection-start="292" selection-end="292" vertical-scroll-proportion="0.11604095" vertical-offset="204" max-vertical-offset="850">
+          <folding>
+            <marker date="1391564151887" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1391564151887" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/02_book/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="87" selection-end="87" vertical-scroll-proportion="0.17406143" vertical-offset="0" max-vertical-offset="586">
+          <folding>
+            <element signature="e#6#87#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/02_book/SongQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="243" selection-end="243" vertical-scroll-proportion="-5.230769" vertical-offset="102" max-vertical-offset="748">
+        <state line="18" column="5" selection-start="340" selection-end="340" vertical-scroll-proportion="0.26109216" vertical-offset="153" max-vertical-offset="748">
           <folding>
             <element signature="e#6#87#0" expanded="true" />
-            <marker date="1390961247719" expanded="true" signature="216:235" placeholder="SELECT * FRO..songs..." />
-            <marker date="1390961247719" expanded="true" signature="217:235" placeholder="sELECT * FRO..songs..." />
+            <marker date="1390961247719" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..songs..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreQuery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistMenu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
+        <state line="18" column="53" selection-start="334" selection-end="334" vertical-scroll-proportion="0.5221843" vertical-offset="0" max-vertical-offset="586">
+          <folding>
+            <element signature="e#6#87#0" expanded="true" />
+            <marker date="1391500176990" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artists..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/GenreMenu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state line="18" column="34" selection-start="388" selection-end="388" vertical-scroll-proportion="0.5221843" vertical-offset="0" max-vertical-offset="586">
+          <folding>
+            <element signature="e#6#87#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/ArtistMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="34" selection-start="393" selection-end="393" vertical-scroll-proportion="0.5221843" vertical-offset="0" max-vertical-offset="586">
+          <folding>
+            <element signature="e#6#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/add-song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="21" selection-start="659" selection-end="659" vertical-scroll-proportion="0.7859589" vertical-offset="102" max-vertical-offset="799">
+          <folding>
+            <element signature="e#6#87#0" expanded="false" />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1391501108188" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/add-song-process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="26" selection-start="334" selection-end="334" vertical-scroll-proportion="0.4641638" vertical-offset="0" max-vertical-offset="586">
+          <folding>
+            <element signature="e#6#87#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="629">
+          <folding>
+            <element signature="e#511#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="267" selection-end="267" vertical-scroll-proportion="0.40614334" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/02_PHP-OOP-A2/classes/Song.php">
+    <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/Hunger/Billing/PayPal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state line="5" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.1450512" vertical-offset="0" max-vertical-offset="586">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/OpenTable/Review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="54" selection-end="54" vertical-scroll-proportion="0.17406143" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/Yelp/Review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.1450512" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/03_autoload_namespacing/httpfoundation-ex/querystring.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="35" selection-start="536" selection-end="545" vertical-scroll-proportion="0.55119455" vertical-offset="0" max-vertical-offset="629">
+          <folding>
+            <element signature="e#53#99#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

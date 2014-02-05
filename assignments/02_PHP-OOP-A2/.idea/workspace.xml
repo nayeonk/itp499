@@ -26,7 +26,7 @@
       <file leaf-file-name="Song.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classes/Song.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="5" selection-start="914" selection-end="914" vertical-scroll-proportion="0.74561405" vertical-offset="204" max-vertical-offset="867">
+            <state line="23" column="38" selection-start="430" selection-end="430" vertical-scroll-proportion="0.32807016" vertical-offset="204" max-vertical-offset="867">
               <folding>
                 <marker date="1391564151887" expanded="true" signature="669:814" placeholder="INSERT INTO ..." />
               </folding>
@@ -182,7 +182,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/Song.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="5" selection-start="914" selection-end="914" vertical-scroll-proportion="0.74561405" vertical-offset="204" max-vertical-offset="867">
+        <state line="23" column="38" selection-start="430" selection-end="430" vertical-scroll-proportion="0.32807016" vertical-offset="204" max-vertical-offset="867">
           <folding>
             <marker date="1391564151887" expanded="true" signature="669:814" placeholder="INSERT INTO ..." />
           </folding>

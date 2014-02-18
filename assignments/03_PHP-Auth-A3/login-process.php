@@ -13,12 +13,33 @@ $request = Request::createFromGlobals();
 $username =  $request->request->get('username'); //$_POST['username']
 $password = $request->request->get('password'); //$_POST['password']
 
+
 $auth = new Auth($pdo);
 
+// start session
+$session = new Session();
+$session->start(); //session_start()
+
 if ($auth->attempt($username,$password) == true) {
-    echo "Yay you logged in!";
+
+    $session->set('username',$username);
+    $session->set('email', 'dtang@usc.edu');
+    $session->set('loginTime', time());
+
+    $session->getFlashBag()->set('success', 'You have sucessfully logged in!');
+
+    $response = new RedirectResponse('dashboard.php');
+    $response->send();
+
 }
 else {
-    echo "Wrong username and password combination. Please try again";
+    $session->getFlashBag()->set('error', 'Incorrect credentials. Try again.');
+
+    //var_dump($session->getFlashBag()->get('statusMessage'));
+    $response = new RedirectResponse('login.php');
+    $response->send();
+    foreach ($session->getFlashBag()->get('error', array()) as $message) {
+        echo "<div class='flash-error'><script>alert($message)</script></div>";
+    }
 }
 

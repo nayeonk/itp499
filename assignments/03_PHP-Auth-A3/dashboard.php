@@ -5,6 +5,7 @@ require __DIR__  . '/ITP/SongQuery.php';
 
 use \Symfony\Component\HttpFoundation\RedirectResponse;
 use \Symfony\Component\HttpFoundation\Session\Session;
+use Carbon\Carbon;
 
 //use ITP\Songs\SongQuery as SongQuery;
 
@@ -16,6 +17,11 @@ $session->start();
 if ($session->get('username') == '') {
     $response = new RedirectResponse('login.php');
     $response->send();
+
+// Carbon
+    $carbon = new Carbon();
+    $time = $session->get('loginTime');
+    echo $carbon->createFromTimestamp($time)->toDateTimeString();
 }
 ?>
 <!DOCTYPE html>
@@ -31,7 +37,7 @@ if ($session->get('username') == '') {
         <div id="info">
             Hi, you are logged in as <?php echo $session->get('username');?><br/>
             <strong>Email address:</strong> <?php echo $session->get('email');?> <br/>
-            <strong>Login Time:</strong> <?php echo $session->get('loginTime');?> <br/>
+            <strong>Last Login: </strong> <?php echo Carbon::createFromTimestamp($session->get('loginTime'))->diffForHumans();;?> <br/>
             <form action="logout.php"> <input type="submit" value="Logout"/> </form>
         </div>
         <div style="clear:both"></div>

@@ -31,9 +31,18 @@ body {
     color: green;
     font-weight: bold;
 }
+.flash-error {
+    color: red;
+    font-weight: bold;
+}
 #main {
     width: 700px;
     margin: 0 auto;
+}
+.login {
+    text-align: center;
+    width: 800px;
+    margin: auto;
 }
 tr:nth-child(odd)		{ background-color:#eee; }
 tr:nth-child(even)		{ background-color:#fff; }

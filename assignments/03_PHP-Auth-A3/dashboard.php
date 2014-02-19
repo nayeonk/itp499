@@ -1,13 +1,13 @@
 <?php
 require __DIR__  . '/vendor/autoload.php';
 require_once 'db.php';
-require __DIR__  . '/ITP/SongQuery.php';
+//require __DIR__  . '/ITP/SongQuery.php';
 
 use \Symfony\Component\HttpFoundation\RedirectResponse;
 use \Symfony\Component\HttpFoundation\Session\Session;
 use Carbon\Carbon;
 
-//use ITP\Songs\SongQuery as SongQuery;
+use ITP\Songs\SongQuery as SongQuery;
 
 // Start session
 $session = new Session();
@@ -56,6 +56,7 @@ foreach ($session->getFlashBag()->get('success', array()) as $message) {
                 <th>Title</th>
                 <th>Artist</th>
                 <th>Genre</th>
+                <th>Price</th>
             </tr>
         <?php
             $songQuery = new SongQuery($pdo);
@@ -66,6 +67,7 @@ foreach ($session->getFlashBag()->get('success', array()) as $message) {
                 <td><?php echo $song->title?></td>
                 <td><?php echo $song->artist_name?></td>
                 <td><?php echo $song->genre?></td>
+                <td><?php echo $song->price?></td>
             </tr>
 
         <?php

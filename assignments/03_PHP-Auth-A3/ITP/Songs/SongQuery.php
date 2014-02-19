@@ -6,7 +6,7 @@
  * Time: 10:51 PM
  */
 
-//namespace ITP\Songs;
+namespace ITP\Songs;
 
 
 class SongQuery {
@@ -15,7 +15,7 @@ class SongQuery {
 
     public function __construct($pdo){
         $this->pdo = $pdo;
-        $this->sql = "SELECT songs.title, artists.artist_name, genres.genre FROM songs ";
+        $this->sql = "SELECT songs.title, songs.price, artists.artist_name, genres.genre FROM songs ";
     }
     public function withArtist() {
         $this->sql = $this->sql . "INNER JOIN artists ON songs.artist_id = artists.id";
@@ -27,14 +27,14 @@ class SongQuery {
         return $this;
     }
     public function orderBy($query) {
-        $this->sql = $this->sql .  " ORDER BY $query DESC";
+        $this->sql = $this->sql .  " ORDER BY $query";
         return $this;
     }
     public function all() {
         $statement = $this->pdo->prepare($this->sql);
         $statement->execute();
 
-        return $statement->fetchAll(PDO::FETCH_OBJ);
+        return $statement->fetchAll(\PDO::FETCH_OBJ);
     }
 
 } 

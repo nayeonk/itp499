@@ -34,12 +34,7 @@ if ($auth->attempt($username,$password) == true) {
 }
 else {
     $session->getFlashBag()->set('error', 'Incorrect credentials. Try again.');
-
-    //var_dump($session->getFlashBag()->get('statusMessage'));
     $response = new RedirectResponse('login.php');
     $response->send();
-    foreach ($session->getFlashBag()->get('error', array()) as $message) {
-        echo "<div class='flash-error'><script>alert($message)</script></div>";
-    }
 }
 
